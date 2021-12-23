@@ -2,7 +2,6 @@ clear all; close all %#ok<CLALL>
 
 hf(1) = figure(1); clf;
 
-
 %% Define parameters
 
 % Time variables------------------------------------
@@ -125,6 +124,10 @@ for itar = 1:ntar
         
     end
 end
+
+xlabel('x position')
+ylabel('y position')
+
 
 %% Plot error
 
