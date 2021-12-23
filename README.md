@@ -1,4 +1,4 @@
-# Sanner-Kosha model: a neural network taht learns the dynamics of a mechanical arm.
+# Sanner-Kosha model: a neural network that learns the dynamics of a mechanical arm.
 
 A reproduction of the model from 
 <a href="https://link.springer.com/article/10.1007/s004220050532" target="_blank">
